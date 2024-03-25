@@ -1,0 +1,10 @@
+#todo-list {
+    list-style-type: none;
+    padding: 0;
+}
+#todo-list li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
